@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineSweeper1.1</string>
+    <string name="set_label">设置雷数</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">退出</string>
+    <string name="set_mine_number">设置雷数</string>
+    <string name="setting_button">确定</string>
+
+</resources>
