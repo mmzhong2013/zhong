@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		main=(LinearLayout)this.findViewById(R.id.main);
-		
+		//’‚ «…∂∞°
 		this.width=5;
 		this.height=10;
 		this.preferences=this.getSharedPreferences("mine_sweeper", MODE_PRIVATE);
